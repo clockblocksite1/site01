@@ -1,0 +1,142 @@
+.okno1010{
+    width: 668px;
+    height: 662px;
+    background-color: #442D25;
+    position: absolute;
+    margin-top: -3000px;
+    border-radius: 44px;
+    margin-left: 626px;
+}
+.hot1cu{
+    position: absolute;
+    color: white;
+    width: 47px;
+    height: 47px;
+    cursor: pointer;
+    margin-left: 619px;
+}
+.hotqw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.hot201qw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: -545px;
+    margin-left: 339px;
+    position: absolute;
+}
+.hot301qw{
+    width: 305px;
+    height: 390px;
+    border-radius: 44px;
+    margin-top: -547px; 
+    margin-left: 181px;
+    position: absolute;
+    border: solid 4px white;
+}
+.hot49{
+    background-color: white;
+    width: 90px;
+    height: 50px;
+    border-radius: 14px;
+    margin-left: 240px;
+    position: absolute;
+    margin-top: 20px;
+    width: 90px;
+    height: 50px;
+}
+.hot5{
+    margin-left: 10px;
+    font-size: 25px;
+    position: absolute;
+    cursor: pointer;
+}
+.hot69{
+    background-color: white;
+    border-radius: 14px;
+    margin-left: 330px;
+    position: absolute;
+    margin-top: 20px;
+    width: 90px;
+    height: 50px;
+}
+.hot7{
+    margin-left: 10px;
+    font-size: 25px;
+    position: absolute;
+    cursor: pointer;
+}
+.hot800{
+    font-size: 24px;
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-weight: 300;
+}
+.hot900{
+    font-size: 24px;
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+    font-weight: 300;
+   
+}
+@media(max-width:430px){
+    .okno1010{
+        margin-left: 12px;
+        position: absolute;
+        margin-top: 3190px;
+        width: 405px;
+        height: 484px;
+    }
+    .hotqw{
+        position: absolute;
+        margin-top: 21px;
+        margin-left: 40px;
+    }
+   .hot201qw{
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 240px;
+   }
+   .hot301qw{
+    position: absolute;
+    margin-top: 19px;
+    margin-left: 139px;
+   }
+   .hot49{
+    position: absolute;
+    margin-top: 230px;
+    width: 70px;
+    height: 50px;
+    margin-left: 140px;
+   }
+   .hot69{
+    position: absolute;
+    margin-top: 230px;
+    width: 70px;
+    height: 50px;
+    margin-left: 210px;
+   }
+   .hot800{
+    position: absolute;
+    margin-top: 320px;
+    font-size: 18px;
+   }
+   .hot900{
+    position: absolute;
+    margin-top: 320px;
+    font-size: 18px;
+    margin-top: 370px;
+   }
+   .hot1cu{
+    position: absolute;
+    margin-left: 370px;
+   }
+}
